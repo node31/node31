@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Pwgen Password Generator Cli** — I got tired of reaching for a browser extension or a random website every time I needed a decent password, so I wrote pwgen.
 - **Product Landing Page** — A crisp, conversion-focused landing page template — ready to ship in minutes.
 
-<sub>last updated 2026-04-19</sub>
+<sub>last updated 2026-04-20</sub>
