@@ -1,31 +1,17 @@
-<h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
-<h3 align="center">Engineering Leader & Full-Stack Builder — AI, Cloud, Desktop & Web</h3>
+### hi, i'm node31
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=node31&color=blueviolet&style=flat">
-</p>
+i build things in windows, .net, azure, and on the web — mostly small, often on weekends.
 
-- 🔭 I'm currently exploring **Applied AI, LLM Systems & Agentic Workflows**
+**tech focus:** WPF · WinUI · Azure · Web
 
-- 👨‍💻 All of my projects are available [here](https://github.com/node31/side-projects)
+**currently building:** Devcheat Quick Reference Sheets
 
-- 🌐 Check out my portfolio at [node31.github.io](https://node31.github.io)
+#### recent projects
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/pranavgupta3131/)**
+- **Devcheat Quick Reference Sheets** — DevCheat is a small static site I put together to keep my most-used reference sheets in one place.
+- **Commitgen Conventional Commits Builder** — Here's the README body:
+- **Markdown Preview** — I built this because I wanted a quick way to preview Markdown files without switching to a browser or firing up VS Code.
+- **Renamer Bulk File Renaming Cli** — I kept hitting the same chore: a folder full of photos or downloads with messy names, and the usual rename tools were either too heavy or to
+- **Qrcli Terminal Qr Code Generator** — I wrote qrcli because I kept needing quick QR codes for wifi passwords and links when setting up devices, and firing up a browser or install
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/node31">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=node31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=node31&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p>
-<a href="https://node31.github.io"><img src="https://img.shields.io/badge/-node31.github.io-6E57FF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/pranavgupta3131"><img src="https://img.shields.io/badge/-pranavgupta3131-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/node31/side-projects"><img src="https://img.shields.io/badge/-side--projects-181717?style=flat&logo=Github&logoColor=white"/></a>
-</p>
+<sub>last updated 2026-05-19</sub>
