@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Devcheat Quick Reference Sheets** — DevCheat is a small static site I put together to keep my most-used reference sheets in one place.
 - **Commitgen Conventional Commits Builder** — Here's the README body:
 
-<sub>last updated 2026-05-22</sub>
+<sub>last updated 2026-05-23</sub>
