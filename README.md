@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Qr Code Generator Azure Function** — This is a small Azure Function that generates QR codes from any text or URL you throw at it via an HTTP request.
 - **Rss To Json Converter** — This is a small Azure Function that takes an RSS feed URL, fetches it, and returns the contents as clean JSON.
 
-<sub>last updated 2026-06-05</sub>
+<sub>last updated 2026-06-06</sub>
