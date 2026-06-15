@@ -4,14 +4,14 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 
 **tech focus:** WPF · WinUI · Azure · Web
 
-**currently building:** Screen Color Picker
+**currently building:** Wx Terminal Weather Card
 
 #### recent projects
 
+- **Wx Terminal Weather Card** — I wanted a quick way to check the weather without opening a browser tab or pulling out my phone, so I threw together wx.
 - **Screen Color Picker** — ● List directory.
 - **Asciify Text To Ascii Art Cli** — I wanted a tiny `asciify` command I could pipe text into when I'm messing around in the terminal and want a banner without pulling in figlet
 - **Pasteboard** — PasteBoard is a tiny web-based clipboard I built because I kept emailing myself snippets of text between machines.
 - **Hello Func Greeting Service** — This is a small HTTP-triggered Azure Function running on.
-- **Resume Site With Dark Mode** — A small static site I wanted to throw together.
 
-<sub>last updated 2026-06-14</sub>
+<sub>last updated 2026-06-15</sub>
