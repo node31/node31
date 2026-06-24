@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Hashit Universal File Hasher** — I built hashit because I kept needing to verify file checksums and every time I'd end up googling the right Python hashlib incantation or pi
 - **Pasteboard** — PasteBoard is a dead-simple clipboard sharing tool I built because I got tired of emailing myself snippets between machines.
 
-<sub>last updated 2026-06-23</sub>
+<sub>last updated 2026-06-24</sub>
