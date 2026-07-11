@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Resume Site** — I built this as a plain resume site so I'd have somewhere to point people that isn't a PDF attachment or a LinkedIn URL.
 - **Markdown Preview** — I built this because I kept jotting notes and docs in Markdown and wanted to see the rendered result without alt-tabbing to a browser or com
 
-<sub>last updated 2026-07-10</sub>
+<sub>last updated 2026-07-11</sub>
