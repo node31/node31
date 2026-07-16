@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Wpf Password Generator** — I built this because I got tired of reaching for a website every time I needed a throwaway password, and I didn't want a browser tab handlin
 - **Pwgen Password Generator Cli** — I built pwgen because I got tired of reaching for a website every time I needed a throwaway password, and I didn't want to trust some random
 
-<sub>last updated 2026-07-15</sub>
+<sub>last updated 2026-07-16</sub>
