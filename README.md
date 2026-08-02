@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Note Quick Markdown Notes Cli** — I kept losing track of small things — half-formed ideas, a command I'd figured out after twenty minutes of digging, the name of a library so
 - **Product Landing Page** — This is a plain product landing page I put together for a made-up gadget, mostly because I kept needing a starting point whenever someone as
 
-<sub>last updated 2026-07-31</sub>
+<sub>last updated 2026-08-02</sub>
