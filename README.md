@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Pasteboard** — I kept losing snippets between machines, so I built PasteBoard: a tiny paste bin I can run locally or on a cheap VM.
 - **Asciify Ascii Art Cli** — I wanted a quick way to turn short strings into block letters without pulling in a dependency or opening a browser, mostly for banners at th
 
-<sub>last updated 2026-08-08</sub>
+<sub>last updated 2026-08-09</sub>
