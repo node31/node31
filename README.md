@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Dev Cheatsheet Site** — I keep forgetting the same handful of git incantations and shell flags, and I got tired of digging through browser history or old terminal s
 - **Dev Cheatsheet Site** — I kept forgetting the same handful of git incantations and regex bits, and I got tired of digging through old terminal history or half-remem
 
-<sub>last updated 2026-08-13</sub>
+<sub>last updated 2026-08-14</sub>
