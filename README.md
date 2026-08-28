@@ -4,14 +4,14 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 
 **tech focus:** WPF · WinUI · Azure · Web
 
-**currently building:** Qrcli Terminal Qr Generator
+**currently building:** Hashit
 
 #### recent projects
 
+- **Hashit** — I kept needing to check file hashes for downloads and integrity checks, and I got tired of remembering the exact incantation for hashlib in 
 - **Qrcli Terminal Qr Generator** — I kept needing to move a URL or a wifi password from my laptop to my phone, and every time I ended up on some random QR site that wanted an 
 - **Linkinbio** — I got tired of paying for a hosted link-in-bio page that was basically a list of anchors and a bit of CSS, so I wrote my own.
 - **Todo Cli** — I kept losing track of small tasks between terminals, so I wrote this instead of installing yet another app.
 - **Resume Site** — I got tired of my resume living in a Word file that rendered differently on every machine, so I built a single-page version I can host anywh
-- **Resume Site** — I keep a copy of my CV in a Word file somewhere on OneDrive, and every time someone asks for it I end up hunting for the latest version and 
 
-<sub>last updated 2026-08-27</sub>
+<sub>last updated 2026-08-28</sub>
