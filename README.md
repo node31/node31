@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Qrcli Terminal Qr Generator** — I kept needing to move a URL or a wifi password from my laptop to my phone, and every time I ended up on some random QR site that wanted an 
 - **Linkinbio** — I got tired of paying for a hosted link-in-bio page that was basically a list of anchors and a bit of CSS, so I wrote my own.
 
-<sub>last updated 2026-08-30</sub>
+<sub>last updated 2026-08-31</sub>
