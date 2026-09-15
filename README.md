@@ -4,14 +4,14 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 
 **tech focus:** WPF · WinUI · Azure · Web
 
-**currently building:** Dev Cheatsheet Site
+**currently building:** Asciify
 
 #### recent projects
 
+- **Asciify** — / Search (glob)
 - **Dev Cheatsheet Site** — I keep forgetting the same handful of things — git commands I use once a month, a couple of regex bits, the difference between the various d
 - **Commitgen** — I built commitgen because I kept writing the same half-decent commit messages by hand and then rewriting them five minutes later when I reme
 - **Fun 404 Page** — I'll write the README body directly.
 - **Linkinbio** — One page, one JSON file, all your links — no CMS required.
-- **Url Shortener Azure Function** — I kept getting tired of pasting long tracking URLs into chat messages and docs, so I put together a small URL shortener that runs as an HTTP
 
-<sub>last updated 2026-09-14</sub>
+<sub>last updated 2026-09-15</sub>
