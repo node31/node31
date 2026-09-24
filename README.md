@@ -14,4 +14,4 @@ i build things in windows, .net, azure, and on the web — mostly small, often o
 - **Pwgen Password Generator Cli** — I needed a password generator I could trust on machines where I didn't want to install anything, so I wrote this.
 - **Rss To Json Api** — I kept hitting the same annoyance: a handful of feeds I wanted to pull into small dashboards and side tools, and every time I'd write yet an
 
-<sub>last updated 2026-09-23</sub>
+<sub>last updated 2026-09-24</sub>
